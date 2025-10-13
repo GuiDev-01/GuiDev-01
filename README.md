@@ -1,18 +1,18 @@
-# 👋 Olá! Eu sou o Antônio Guilherme 
+# 👋 Hello! I'm Antônio Guilherme
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Python;FastAPI+%26+Cloud+Enthusiast;Criando+APIs+robustas;Sempre+evoluindo!)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+Python;Cloud+%26+DevOps+Enthusiast;Building+Production-Grade+APIs;Passionate+about+Scalable+Systems)
 
 </div>
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 🔭 **Atualmente trabalhando em:** [OrionJobs AI](https://github.com/GuiDev-01/orion-jobs-ai) - Plataforma inteligente de busca de vagas
-- 🌱 **Aprendendo:** Cloud Computing (Azure), DevOps, e arquiteturas escaláveis
-- 💡 **Especialidade:** Desenvolvimento backend com Python, APIs REST e bancos de dados
-- 🎯 **Objetivo 2025:** Dominar infraestrutura cloud e deploy automatizado
-- ⚡ **Fun fact:** Transformo problemas complexos em APIs elegantes e funcionais!
+- 🔭 **Currently building & maintaining:** [OrionJobs AI](https://github.com/GuiDev-01/orion-jobs-ai) - A production-ready intelligent job search platform.
+- 🌱 **Deepening my expertise in:** Cloud Computing (Azure), DevOps methodologies, and scalable system architecture.
+- 💡 **Specializing in:** Backend development with Python, building RESTful APIs, and database management.
+- 🎯 **Key Goal for 2025:** To master cloud-native infrastructure and automated deployment pipelines.
+- ⚡ **Fun fact:** I turn complex problems into elegant and functional APIs that developers love to use.
 
 ## 🛠️ Tech Stack
 
@@ -34,28 +34,19 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🏆 Projetos em Destaque
+## 🏆 Featured Project
 
-### 🎯 [OrionJobs AI](https://github.com/GuiDev-01/orion-jobs-ai)
-> **API robusta para busca inteligente de vagas**
+### 🎯 [OrionJobs AI](https://github.com/GuiDev-01/orion-jobs-ai) - Intelligent Job Search API
+> **Status: ✅ Live in Production on Microsoft Azure**
 
-**🔧 Stack Técnico:**
-- **Backend:** Python + FastAPI + SQLAlchemy 2.0
-- **Database:** PostgreSQL com migrations automáticas
-- **Cloud:** Azure VM + Azure Database for PostgreSQL
-- **DevOps:** Docker + GitHub Actions CI/CD
+A robust backend platform designed to automate and intelligently filter job opportunities from multiple sources. This is not just a project; it's a fully operational product.
 
-**⚡ Features Implementadas:**
-- ✅ **CRUD Completo** - Endpoints RESTful com validação Pydantic
-- ✅ **Error Handling Avançado** - Sistema customizado de exceções e logging
-- ✅ **Rate Limiting** - Proteção contra spam e abuse
-- ✅ **Documentação Automática** - Swagger/OpenAPI integrado
-- ✅ **Containerização** - Docker para deploy consistente
-
-**🚀 Próximas Features:**
-- 🔄 **Integração APIs** - RemoteOK, Adzuna, JSearch
-- ☁️ **Deploy Azure** - VM + PostgreSQL gerenciado
-- 🤖 **IA Integration** - Recomendações personalizadas
+**Key Achievements:**
+- ✅ **Production-Grade API:** Architected and deployed a scalable API that has already processed over 1,300 job listings.
+- ✅ **End-to-End DevOps:** Implemented a full CI/CD pipeline with GitHub Actions for automated testing and deployment to Azure.
+- ✅ **Containerized Solution:** Fully containerized with Docker for consistent development and production environments.
+- ✅ **Robust & Secure:** Features advanced error handling, custom logging, and rate limiting to prevent abuse.
+- ✅ **Live & Documented:** The API is live and includes automatic interactive documentation via Swagger/OpenAPI.
 
 ## 📊 GitHub Stats
 
@@ -68,13 +59,13 @@
 </div>
 
 
-## 💻 Especialidades Backend
+## 💻 My Backend Engineering Philosophy
 
 ```python
-class BackendDeveloper:
+class BackendEngineer:
     def __init__(self):
         self.name = "Antônio Guilherme"
-        self.role = "Backend Developer"
+        self.role = "Backend Engineer"
         self.language = "Python"
         
     def skills(self):
@@ -84,28 +75,28 @@ class BackendDeveloper:
             "apis": ["REST", "OpenAPI", "Pydantic"],
             "tools": ["Docker", "Git", "Postman"],
             "cloud": ["Azure", "GitHub Actions"],
-            "practices": ["Clean Code", "Error Handling", "Testing"]
+            "practices": ["Clean Code", "Error Handling", "TDD", "CI/CD"]
         }
         
     def current_focus(self):
         return [
-            "🔧 Building scalable APIs",
-            "☁️ Cloud infrastructure (Azure)",
-            "📊 Database optimization", 
-            "🚀 DevOps automation",
-            "🛡️ API security & rate limiting"
+            "🔧 Building scalable, production-ready APIs",
+            "☁️ Architecting and deploying cloud infrastructure (Azure)",
+            "📊 Optimizing database performance and queries", 
+            "🚀 Automating development workflows (DevOps)",
+            "🛡️ Implementing robust API security and rate limiting"
         ]
         
-    def goals_2025(self):
+    def professional_goals(self):
         return {
-            "technical": "Master Azure ecosystem & microservices",
-            "project": "Launch OrionJobs AI in production",
-            "career": "Senior Backend Developer position",
-            "learning": "Advanced PostgreSQL & API architecture"
+            "technical": "Master microservices architecture & advanced cloud patterns",
+            "project": "Scale OrionJobs AI to handle 10,000+ daily jobs",
+            "career": "Achieve a high-impact role in a world-class tech company",
+            "learning": "Advanced PostgreSQL optimization & system design"
         }
 ```
 
-## 🌐 Vamos nos conectar!
+## 🌐 Let's Connect!
 
 <div align="center">
 
@@ -119,11 +110,11 @@ class BackendDeveloper:
 
 <div align="center">
 
-### 💭 Filosofia de Backend
+### 💭 My Backend Philosophy
 
 *"A good API is like a good joke - if you have to explain it, it's not that good."*
 
-**🚀 Construindo APIs que desenvolvedores adoram usar!**
+**🚀 Building APIs that developers love to use!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GuiDev-01&color=blueviolet&style=for-the-badge)
 
