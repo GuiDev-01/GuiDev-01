@@ -52,8 +52,8 @@ A robust backend platform designed to automate and intelligently filter job oppo
 
 <div align="center">
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiDev-01&show_icons=true&count_private=true)
-  
+![Guilherme's GitHub stats](https://github-readme-stats-beta-lilac-43.vercel.app/api?username=GuiDev-01&show_icons=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats-beta-lilac-43.vercel.app/api/top-langs/?username=GuiDev-01&layout=compact&theme=radical&hide_border=true)
 
 </div>
